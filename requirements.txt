@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pypdf
+chromadb
+sentence-transformers
+openai>=1.40.0

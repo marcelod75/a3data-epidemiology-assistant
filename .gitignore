@@ -13,3 +13,9 @@ __pycache__/
 
 # Env
 .env
+
+# Artifacts / índices locais
+artifacts/chroma/
+artifacts/*.db
+artifacts/*.sqlite
+logs/
